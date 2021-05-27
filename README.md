@@ -19,7 +19,7 @@
 ### I am...
 
 - 👨‍💻 &nbsp; A Software Design Engineer II **[Merkle Sokrati](https://www.merkleinc.com/in/)**
-- 🔭 &nbsp; Working with **Node.js**, **JAMStack** (**Gatsby** as SSG), **AWS** and **React**
+- 🔭 &nbsp; Working with **Node.js**, **Gatsby**, **AWS** and **React**
 - 🌱 &nbsp; Currently learning **Ionic** and **Fastify**
 - 🎓 &nbsp; A student of BML Munjal University (2020 Batch)
 - 😄 &nbsp; Pronouns: He/His
@@ -36,12 +36,12 @@
 <img align="left" src="icons/drupal.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/bootstrap.svg" />
-
 <img align="left" src="icons/c.svg" />
 <img align="left" src="icons/html.svg" />
 <img align="left" src="icons/css.svg" />
 <img align="left" src="icons/figma.svg" />
 <img align="left" src="icons/graphql.svg" />
+<img align="left" src="icons/aws.svg" />
 
 <br />
 <br />
