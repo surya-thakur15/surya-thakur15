@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Surya</h2>
 <h3 align="center">A Student of Computer Science, Software Design Engineer and a Perpetual Learner</h3>
--------------------------------------------------------------
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-thakur15&label=Profile%20views&color=0e75b6&style=flat" alt="surya-thakur15" /> </p>
 
@@ -36,6 +36,7 @@
 <img align="left" src="icons/drupal.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/bootstrap.svg" />
+
 <img align="left" src="icons/c.svg" />
 <img align="left" src="icons/html.svg" />
 <img align="left" src="icons/css.svg" />
