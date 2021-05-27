@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-thakur15&label=Profile%20views&color=0e75b6&style=flat" alt="surya-thakur15" /> </p>
 
-<a href="https://twitter.com/surya_thakur15/" target="blank"><img align="left" src="icons/twitter.svg" alt="surya-thakur15" width="22px" /></a>
-<a href="https://linkedin.com/in/suryathakur15/" target="blank"><img align="left" src="icons/linkedin.svg" alt="surya-thakur15" width="22px" /></a>
+<a href="https://twitter.com/surya_thakur15/" target="blank"><img align="left" src="assets/twitter.svg" alt="surya-thakur15" width="22px" /></a>
+<a href="https://linkedin.com/in/suryathakur15/" target="blank"><img align="left" src="assets/linkedin.svg" alt="surya-thakur15" width="22px" /></a>
 <a href="https://t.me/surya_thakur15">
-<img align="left" alt="Surya's Telegram" width="22px" src="icons/telegram.svg" />
+<img align="left" alt="Surya's Telegram" width="22px" src="assets/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/suryathakur15/" target="blank"><img align="left" src="icons/facebook.svg" alt="surya-thakur15" width="22px" /></a>
-<a href="https://instagram.com/surya_thakur15" target="blank"><img align="left" src="icons/instagram.svg" alt="surya-thakur15" width="22px" /></a>
+<a href="https://www.facebook.com/suryathakur15/" target="blank"><img align="left" src="assets/facebook.svg" alt="surya-thakur15" width="22px" /></a>
+<a href="https://instagram.com/surya_thakur15" target="blank"><img align="left" src="assets/instagram.svg" alt="surya-thakur15" width="22px" /></a>
 <br />
 <br />
 
-<img align="right" alt="GIF" src="work.gif" width="360px"/>
+<img align="right" alt="GIF" src="assets/work.gif" width="360px"/>
 
 ### I am...
 
@@ -30,20 +30,20 @@
 
 
 ### Languages and Frameworks
-<img align="left" src="icons/javascript.svg" />
-<img align="left" src="icons/gatsby.svg" />
-<img align="left" src="icons/react.svg" />
-<img align="left" src="icons/node.svg" />
-<img align="left" src="icons/drupal.svg" />
-<img align="left" src="icons/typescript.svg" />
-<img align="left" src="icons/bootstrap.svg" />
-<img align="left" src="icons/c.svg" />
-<img align="left" src="icons/html.svg" />
-<img align="left" src="icons/css.svg" />
-<img align="left" src="icons/git.svg" />
-<img align="left" src="icons/figma.svg" />
-<img align="left" src="icons/graphql.svg" />
-<img align="left" src="icons/aws.svg" />
+<img align="left" src="assets/javascript.svg" />
+<img align="left" src="assets/gatsby.svg" />
+<img align="left" src="assets/react.svg" />
+<img align="left" src="assets/node.svg" />
+<img align="left" src="assets/drupal.svg" />
+<img align="left" src="assets/typescript.svg" />
+<img align="left" src="assets/bootstrap.svg" />
+<img align="left" src="assets/c.svg" />
+<img align="left" src="assets/html.svg" />
+<img align="left" src="assets/css.svg" />
+<img align="left" src="assets/git.svg" />
+<img align="left" src="assets/figma.svg" />
+<img align="left" src="assets/graphql.svg" />
+<img align="left" src="assets/aws.svg" />
 
 <br />
 <br />
