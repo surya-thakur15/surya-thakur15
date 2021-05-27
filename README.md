@@ -31,6 +31,7 @@
 
 ### Languages and Frameworks
 <img align="left" src="assets/javascript.svg" />
+<img align="left" src="assets/python.svg" />
 <img align="left" src="assets/gatsby.svg" />
 <img align="left" src="assets/react.svg" />
 <img align="left" src="assets/node.svg" />
