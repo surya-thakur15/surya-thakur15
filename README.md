@@ -44,7 +44,7 @@
 <img align="left" src="assets/git.svg" />
 <img align="left" src="assets/figma.svg" />
 <img align="left" src="assets/graphql.svg" />
-<img align="left" src="assets/aws.svg" />
+<!-- <img align="left" src="assets/aws.svg" /> -->
 
 <br />
 <br />
