@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Surya</h2>
+<h2 align="center">Hi 👋, I'm Surya </h2>
 <h3 align="center">A Student of Computer Science, Software Design Engineer and a Perpetual Learner</h3>
 
 
