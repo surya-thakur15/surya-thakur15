@@ -1,0 +1,2 @@
+(self.webpackChunkportfolio_surya=self.webpackChunkportfolio_surya||[]).push([[678],{7704:function(e,l,t){"use strict";t.r(l);var n=t(7294),r=t(5127),u=t(3751);l.default=function(){return n.createElement(r.Z,null,n.createElement(u.Z,{title:"Home"}),n.createElement("h1",null,"Hi! "),n.createElement("h4",null,"Welcome"),n.createElement("p",null,"Time build something great"),n.createElement("p",null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-36cea33121aa9c4436ad.js.map
