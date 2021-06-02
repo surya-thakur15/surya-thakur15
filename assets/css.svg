@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 65" width="36" height="36">
+	<title>css-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1572b6 } 
+		.shp1 { fill: #33a9dc } 
+		.shp2 { fill: #ebebeb } 
+		.shp3 { fill: #8b8b8b } 
+		.shp4 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="shp0" d="M31.47 63L13.91 58.2L10 15L53 15L49.08 58.2L31.47 63L31.47 63Z" />
+	<path id="Layer" class="shp1" d="M45.57 55.1L49 18L31 18L31 59L45.57 55.1Z" />
+	<path id="Layer" class="shp2" d="M19 34L19.46 40L31 40L31 34L19 34ZM18 24L18.47 29L31 29L31 24L18 24ZM31 48.16L30.98 48.16L25.39 46.48L25.04 42L20 42L20.7 50.81L30.98 54L31 53.99L31 48.16L31 48.16Z" />
+	<path id="Layer" class="shp3" d="M20 3L26 3L26 5.67L22.51 5.67L22.51 8.33L26 8.33L26 11L20 11L20 3ZM28 3L34 3L34 5.29L30.51 5.29L30.51 5.74L34 5.74L34 11L28 11L28 8.6L31.49 8.6L31.49 8.14L28 8.14L28 3ZM35 3L42 3L42 5.29L37.93 5.29L37.93 5.74L42 5.74L42 11L35 11L35 8.6L39.07 8.6L39.07 8.14L35 8.14L35 3Z" />
+	<path id="Layer" class="shp4" d="M43.99 34.72L45 24L31 24L31 29.3L38.88 29.3L38.37 34.72L31 34.72L31 40.02L37.88 40.02L37.23 46.89L31 48.49L31 54L42.46 50.99L42.54 50.1L43.86 36.15L43.99 34.72L43.99 34.72Z" />
+</svg>
