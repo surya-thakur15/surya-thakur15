@@ -4,13 +4,18 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Home from "../components/Home"
+import About from "../components/About"
+import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
-    <h1>Hi! </h1>
-    <h4>Welcome</h4>
-    <p>Time to build something great</p>
+    <Seo title="Surya - Full Stack Developer" />
+    <Home />
+    <About />
+    <Footer />
+
+
     {/* <StaticImage
       src="../images/logo.png"
       width={300}
@@ -20,8 +25,6 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     /> */}
     <p>
-      {/* <Link to="/page-2/">Go to page 2</Link> <br /> */}
-      {/* <Link to="/using-typescript/">Go to "Using TypeScript"</Link> */}
     </p>
   </Layout>
 )

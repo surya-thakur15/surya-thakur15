@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Surya`,
-    description: `Surya's Portfolio`,
-    author: `surya`,
+    title: `Surya - Fullstack Developer`,
+    description: `A platform to show the snap of skills.`,
+    author: `Surya`,
   },
   pathPrefix: `/surya-thakur15`,
   plugins: [

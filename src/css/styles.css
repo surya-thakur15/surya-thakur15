@@ -1,0 +1,42 @@
+/* ---------------- Home -------------- */
+.wrapper-home {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  text-align: center;
+  display: flex;
+}
+
+.wrapper-normal {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.item {
+  flex: 1;
+  align-self: center;
+  justify-content: center;
+  font-size: 36px;
+}
+
+.name {
+  font-size: 48px;
+}
+
+
+/* * {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+} */

@@ -34,7 +34,7 @@ function Seo({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      titleTemplate={`%s` ? `%s` : defaultTitle }
       meta={[
         {
           name: `description`,
@@ -52,6 +52,7 @@ function Seo({ description, lang, meta, title }) {
           property: `og:type`,
           content: `website`,
         },
+        
         {
           name: `twitter:card`,
           content: `summary`,
