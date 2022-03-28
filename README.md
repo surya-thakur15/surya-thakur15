@@ -19,11 +19,11 @@
 ### I am...
 
 - 👨‍💻 &nbsp; A Software Design Engineer II **[Merkle Sokrati](https://www.merkleinc.com/in/)**
-- 🔭 &nbsp; Working with **Node.js**, **Gatsby**, **AWS** and **React**
+- 🔭 &nbsp; Working with **Node.js**, **Gatsby**, **AWS** and **React.js**
 - 🌱 &nbsp; Currently learning **Ionic** and **Fastify**
 - 🎓 &nbsp; A student of BML Munjal University (2020 Batch)
 - 😄 &nbsp; Pronouns: He/His
-- 📄 &nbsp; Get to know about my experiences in **[Resume](https://drive.google.com/file/d/1NC2wbhqnEscy6nZHYGo3q0mttN4si0oS/view?usp=sharing)**
+<!-- - 📄 &nbsp; Get to know about my experiences in **[Resume]()** -->
 
 ### Recent achievements 🏆
 - 📃 **Paper in Machine Learning** (as author) [Paper Publication](https://ieeexplore.ieee.org/abstract/document/9071525)
