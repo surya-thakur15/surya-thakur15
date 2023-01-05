@@ -18,7 +18,7 @@
 
 ### I am...
 
-- 👨‍💻 &nbsp; A Software Design Engineer II **[Merkle Sokrati](https://www.merkleinc.com/in/)**
+- 👨‍💻 &nbsp; A Software Design Engineer at **[Probo](https://probo.in/)**, ex-**[Filo](https://askfilo.com/)**, ex-**[Merkle Sokrati](https://www.merkleinc.com/in/)**
 - 🔭 &nbsp; Working with **Node.js**, **Gatsby**, **AWS** and **React.js**
 - 🌱 &nbsp; Currently learning **Ionic** and **Fastify**
 - 🎓 &nbsp; A student of BML Munjal University (2020 Batch)
